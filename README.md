@@ -21,5 +21,3 @@ This project is an appointment management system for a solo hairdresser. The bac
 - PostgreSQL
 - Twilio
 
-## Folder Structure
-
